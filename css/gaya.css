@@ -125,7 +125,8 @@ footer {
   .logo-sosmed a {
     padding: 2px;
     margin-right: 20px;
-    
   }
+  .container .btn {
+    float: right;
 }
 
